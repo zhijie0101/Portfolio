@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2d198db.css",
+    "main.js": "/static/js/main.e2573dc6.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/Malaysia.mp4": "/static/media/Malaysia.8b59ed3cc961777c7d3d.mp4",
+    "static/media/Audi R8.mp4": "/static/media/Audi R8.c06bd897f7ba793ed49c.mp4",
+    "static/media/PortfolioBackground.mp4": "/static/media/PortfolioBackground.a56149edd8a443237b9d.mp4",
+    "static/media/background.mp4": "/static/media/background.a56149edd8a443237b9d.mp4",
+    "static/media/TiktokProfilePicture.png": "/static/media/TiktokProfilePicture.3cc75638d4c932f7e2d8.png",
+    "static/media/AudiR8Thumbnail.png": "/static/media/AudiR8Thumbnail.55811c1d92965045b5c6.png",
+    "static/media/instagram.svg": "/static/media/instagram.448198b22019bf2f0b71355b8346c675.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.17112172df21e518376d04f5814c11d8.svg",
+    "static/media/menu.svg": "/static/media/menu.a2c252b2b33a90506b824797769d1b49.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.4172f094907a6837b8f36d120b55601b.svg",
+    "static/media/video.svg": "/static/media/video.47d196696af369c9fb83f6ba2ab01c92.svg",
+    "static/media/mobile_app.svg": "/static/media/mobile_app.e2f93eccc7fe9df769892187be0fb1fc.svg",
+    "static/media/website_dev.svg": "/static/media/website_dev.1a2f51bad63f09a78eaefb8965990cbe.svg",
+    "main.e2d198db.css.map": "/static/css/main.e2d198db.css.map",
+    "main.e2573dc6.js.map": "/static/js/main.e2573dc6.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d198db.css",
+    "static/js/main.e2573dc6.js"
+  ]
+}

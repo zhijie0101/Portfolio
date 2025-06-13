@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.07b5ecad.css",
-    "main.js": "/Portfolio/static/js/main.f610f33a.js",
+    "main.js": "/Portfolio/static/js/main.2e2129ae.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Malaysia.mp4": "/Portfolio/static/media/Malaysia.8b59ed3cc961777c7d3d.mp4",
     "static/media/Audi R8.mp4": "/Portfolio/static/media/Audi R8.c06bd897f7ba793ed49c.mp4",
     "static/media/PortfolioBackground.mp4": "/Portfolio/static/media/PortfolioBackground.a56149edd8a443237b9d.mp4",
     "static/media/background.mp4": "/Portfolio/static/media/background.a56149edd8a443237b9d.mp4",
+    "static/media/PortfolioBackground.png": "/Portfolio/static/media/PortfolioBackground.dbcd9e13fbc595923713.png",
     "static/media/TiktokProfilePicture.png": "/Portfolio/static/media/TiktokProfilePicture.3cc75638d4c932f7e2d8.png",
     "static/media/AudiR8Thumbnail.png": "/Portfolio/static/media/AudiR8Thumbnail.55811c1d92965045b5c6.png",
     "static/media/instagram.svg": "/Portfolio/static/media/instagram.448198b22019bf2f0b71355b8346c675.svg",
@@ -18,11 +19,11 @@
     "static/media/mobile_app.svg": "/Portfolio/static/media/mobile_app.e2f93eccc7fe9df769892187be0fb1fc.svg",
     "static/media/website_dev.svg": "/Portfolio/static/media/website_dev.1a2f51bad63f09a78eaefb8965990cbe.svg",
     "main.07b5ecad.css.map": "/Portfolio/static/css/main.07b5ecad.css.map",
-    "main.f610f33a.js.map": "/Portfolio/static/js/main.f610f33a.js.map",
+    "main.2e2129ae.js.map": "/Portfolio/static/js/main.2e2129ae.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07b5ecad.css",
-    "static/js/main.f610f33a.js"
+    "static/js/main.2e2129ae.js"
   ]
 }

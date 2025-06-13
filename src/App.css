@@ -423,12 +423,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  gap: 20px;
 }
 
 .videos {
-  max-height: 400px;
-  width: auto;
-  object-fit: contain;
   border-radius: 20px;
 }
 

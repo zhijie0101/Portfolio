@@ -56,9 +56,19 @@ export const Banner = () => {
   return (
     <Router>
       <section className="banner" id="home">
-        <video className="video-bg" autoPlay loop muted playsInline>
+        {/* <video className="video-bg" autoPlay loop muted playsInline>
           <source src={bgVideo} type="video/mp4" />
-          {/* Your browser does not support the video tag. */}
+        </video> */}
+
+        {/* <video className="video-bg" autoPlay loop muted playsInline>
+          <source src="/PortfolioBackground.mp4" type="video/mp4" />
+        </video> */}
+
+        <video className="video-bg" autoPlay loop muted playsInline>
+          <source
+            src={`${process.env.PUBLIC_URL}/PortfolioBackground.mp4`}
+            type="video/mp4"
+          />
         </video>
 
         <Container>

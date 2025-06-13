@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.07b5ecad.css",
-    "main.js": "/Portfolio/static/js/main.2e2129ae.js",
+    "main.js": "/Portfolio/static/js/main.6df91ed0.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Malaysia.mp4": "/Portfolio/static/media/Malaysia.8b59ed3cc961777c7d3d.mp4",
     "static/media/Audi R8.mp4": "/Portfolio/static/media/Audi R8.c06bd897f7ba793ed49c.mp4",
@@ -19,11 +19,11 @@
     "static/media/mobile_app.svg": "/Portfolio/static/media/mobile_app.e2f93eccc7fe9df769892187be0fb1fc.svg",
     "static/media/website_dev.svg": "/Portfolio/static/media/website_dev.1a2f51bad63f09a78eaefb8965990cbe.svg",
     "main.07b5ecad.css.map": "/Portfolio/static/css/main.07b5ecad.css.map",
-    "main.2e2129ae.js.map": "/Portfolio/static/js/main.2e2129ae.js.map",
+    "main.6df91ed0.js.map": "/Portfolio/static/js/main.6df91ed0.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07b5ecad.css",
-    "static/js/main.2e2129ae.js"
+    "static/js/main.6df91ed0.js"
   ]
 }

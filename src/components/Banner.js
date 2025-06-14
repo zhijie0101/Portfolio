@@ -4,6 +4,7 @@ import { ArrowRightCircle } from "react-bootstrap-icons";
 import { BrowserRouter as Router } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
 import bgVideo from "../assets/img/background.mp4";
+import PortfolioBackground from "../assets/graphic/PortfolioBackground.png";
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -64,12 +65,14 @@ export const Banner = () => {
           <source src="/PortfolioBackground.mp4" type="video/mp4" />
         </video> */}
 
-        <video className="video-bg" autoPlay loop muted playsInline>
+        {/* <video className="video-bg" autoPlay loop muted playsInline>
           <source
             src={`${process.env.PUBLIC_URL}/PortfolioBackground.mp4`}
             type="video/mp4"
           />
-        </video>
+        </video> */}
+
+        <img src={PortfolioBackground} alt="background" className="image-bg" />
 
         <Container>
           <Row className="align-items-center">
@@ -78,7 +81,7 @@ export const Banner = () => {
               <h1>
                 {/* {`I'm A Freelance `}
                 <br /> */}
-                {`I have learn to do `}
+                {`I have self-learning `}
                 <br />
                 <span className="wrap">{text}</span>
               </h1>
